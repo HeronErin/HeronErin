@@ -7,7 +7,7 @@
    role="img"
    aria-labelledby="descId"
 >
-     <title id="titleId">Title/title>
+     <title id="titleId">Title</title>
      <desc id="descId">Desk</desc>
      <defs>
          <style>
