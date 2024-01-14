@@ -17,9 +17,10 @@
          </style>
      </defs>
      
-     <text
-        x="0"
-        y="0"
-        class="header"
-      >Test</text>
+   <text
+       x="10"
+       y="20"
+       class="header"
+   >Test</text>
+
 </svg>
