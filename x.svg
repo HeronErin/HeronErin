@@ -10,11 +10,15 @@
      <title id="titleId">HeronErin' Github Status, Rank: C+</title>
      <desc id="descId">Total Stars Earned: 7, Total Commits in 2024 : 7, Total PRs: 15, Contributed to (last year): 5</desc>
      <style>
-          h1{
+          .header{
                background: #F0F;
           }
      </style>
      
-     <h1> Test </h1>
+     <text
+        x="0"
+        y="0"
+        class="header"
+      >Test</text>
 </svg>
     
