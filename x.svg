@@ -43,7 +43,7 @@
             to {transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg)}
         }
         .rot{
-            transform-origin: center center center;
+            transform-origin: center center center;|
             position: absolute;
             transform-style: preserve-3d;
             animation: rotate 5s linear infinite;
@@ -57,33 +57,34 @@
         .face{
             position: absolute;
             transform-style: preserve-3d;
+            transform-origin: 0px 0px 0px;
             width:50px;
             height:50px;
             
         }
-        .front{
+        .face1{
             transform: translate3d(0px, 0px, -25px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
             background: #0F0;
         }
-        .back{
+        .face2{
             transform: translate3d(0px, 0px, 25px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
             background: #0FF;
         }
-        .xminus{
-            transform: translate3d(-25px, 0px, 0px) rotateX(0deg) rotateY(90deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+        .face3{
+            transform: translate3d(0px, 0px, 25px) rotateX(0deg) rotateY(90deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
             background: #0F0;
         }
-        .xplus{
-            transform: translate3d(25px, 0px, 0px) rotateX(0deg) rotateY(90deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+        .face4{
+            transform: translate3d(50px, 0px, 25px) rotateX(0deg) rotateY(90deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
             background: #0F0;
         }
-        .yplus{
-            transform: translate3d(0px, 25px, 0px) rotateX(90deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+        .face5{
+            transform: translate3d(0px, 0px, -25px) rotateX(90deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
             background: #FF0;
         }
-        .yminus{
-            transform: translate3d(0px, -25px, 0px) rotateX(90deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: #FF0;
+        .face6{
+            transform: translate3d(0px, 50px, -25px) rotateX(90deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+            background: #000;
         }
 
       </style>
@@ -95,12 +96,12 @@
             
             <div class="cube">
                 <div class="rot">
-                    <div class="front face"/>
-                    <div class="back face"/>
-                    <div class="xminus face"/>
-                    <div class="xplus face"/>
-                    <div class="yplus face"/>
-                    <div class="yminus face"/>
+                    <div class="face1 face"/>
+                    <div class="face2 face"/>
+                    <div class="face3 face"/>
+                    <div class="face4 face"/>
+                    <div class="face5 face"/>
+                    <div class="face6 face"/>
                 </div>
             </div>
         
