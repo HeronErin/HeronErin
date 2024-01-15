@@ -23,7 +23,7 @@
           position: absolute;
           transform-style: preserve-3d;
           transform: translate3d(0px, 0px, 400px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-          left: 50%; top: 50%;
+          
         }
 
         #world {
