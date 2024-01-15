@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="2000">
-  <foreignObject x="0" y="0" width="1000" height="1000">
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+  <foreignObject x="0" y="0" width="200" height="200">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <!-- World css -->
       <style>
         #viewport {
-          height: 250px;
-          width: 250px;
+          height: 200px;
+          width: 200px;
           margin: 0px;
         }
 
@@ -52,7 +52,7 @@
         .cube{
             position: absolute;
             transform-style: preserve-3d;
-            transform: translate3d(100px, 100px, 0px) rotateX(45deg) rotateY(45deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+            transform: translate3d(25px, 25px, 0px) rotateX(45deg) rotateY(45deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
         }
         .face{
             position: absolute;
@@ -61,13 +61,29 @@
             height:50px;
             
         }
-        #front{
-            transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+        .front{
+            transform: translate3d(0px, 0px, -25px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
             background: #0F0;
         }
-        #back{
-            transform: translate3d(0px, 0px, 50px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+        .back{
+            transform: translate3d(0px, 0px, 25px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
             background: #0FF;
+        }
+        .xminus{
+            transform: translate3d(-25px, 0px, 0px) rotateX(0deg) rotateY(90deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+            background: #0F0;
+        }
+        .xplus{
+            transform: translate3d(25px, 0px, 0px) rotateX(0deg) rotateY(90deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+            background: #0F0;
+        }
+        .yplus{
+            transform: translate3d(0px, 25px, 0px) rotateX(90deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+            background: #FF0;
+        }
+        .yminus{
+            transform: translate3d(0px, -25px, 0px) rotateX(90deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+            background: #FF0;
         }
 
       </style>
@@ -79,8 +95,12 @@
             
             <div class="cube">
                 <div class="rot">
-                    <div class="face" id="front" />
-                    <div class="face" id="back" />
+                    <div class="front face"/>
+                    <div class="back face"/>
+                    <div class="xminus face"/>
+                    <div class="xplus face"/>
+                    <div class="yplus face"/>
+                    <div class="yminus face"/>
                 </div>
             </div>
         
