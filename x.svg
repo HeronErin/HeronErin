@@ -65,27 +65,27 @@
         }
         .face1{
             transform: translate3d(0px, 0px, -25px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: #0F0F;
+            background: URL("https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png");
         }
         .face2{
             transform: translate3d(0px, 0px, 25px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: #0FFF;
+            background: URL("https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png");
         }
         .face3{
             transform: translate3d(0px, 0px, 25px) rotateX(0deg) rotateY(90deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: #0F0F;
+            background: URL("https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png");
         }
         .face4{
             transform: translate3d(50px, 0px, 25px) rotateX(0deg) rotateY(90deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: #0F0F;
+            background: URL("https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png");
         }
         .face5{
             transform: translate3d(0px, 0px, -25px) rotateX(90deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: #FF0F;
+            background: URL("https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png");
         }
         .face6{
             transform: translate3d(0px, 50px, -25px) rotateX(90deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: #000F;
+            background: URL("https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png");
         }
 
       </style>
