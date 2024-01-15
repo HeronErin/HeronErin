@@ -65,27 +65,27 @@
         }
         .face1{
             transform: translate3d(0px, 0px, -25px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: URL("https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png");
+            
         }
         .face2{
             transform: translate3d(0px, 0px, 25px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: URL("https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png");
+            
         }
         .face3{
             transform: translate3d(0px, 0px, 25px) rotateX(0deg) rotateY(90deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: URL("https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png");
+            
         }
         .face4{
             transform: translate3d(50px, 0px, 25px) rotateX(0deg) rotateY(90deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: URL("https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png");
+            
         }
         .face5{
             transform: translate3d(0px, 0px, -25px) rotateX(90deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: URL("https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png");
+            
         }
         .face6{
             transform: translate3d(0px, 50px, -25px) rotateX(90deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: URL("https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png");
+            
         }
 
       </style>
@@ -97,12 +97,12 @@
             
             <div class="cube">
                 <div class="rot">
-                    <div class="face1 face"/>
-                    <div class="face2 face"/>
-                    <div class="face3 face"/>
-                    <div class="face4 face"/>
-                    <div class="face5 face"/>
-                    <div class="face6 face"/>
+                    <img class="face1 face" src="https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png"/>
+                    <img class="face2 face" src="https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png"/>
+                    <img class="face3 face" src="https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png"/>
+                    <img class="face4 face" src="https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png"/>
+                    <img class="face5 face" src="https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png"/>
+                    <img class="face6 face" src="https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png"/>
                 </div>
             </div>
         
