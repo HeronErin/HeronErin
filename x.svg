@@ -65,27 +65,27 @@
         }
         .face1{
             transform: translate3d(0px, 0px, -25px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: #0F0;
+            background: #0F0F;
         }
         .face2{
             transform: translate3d(0px, 0px, 25px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: #0FF;
+            background: #0FFF;
         }
         .face3{
             transform: translate3d(0px, 0px, 25px) rotateX(0deg) rotateY(90deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: #0F0;
+            background: #0F0F;
         }
         .face4{
             transform: translate3d(50px, 0px, 25px) rotateX(0deg) rotateY(90deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: #0F0;
+            background: #0F0F;
         }
         .face5{
             transform: translate3d(0px, 0px, -25px) rotateX(90deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: #FF0;
+            background: #FF0F;
         }
         .face6{
             transform: translate3d(0px, 50px, -25px) rotateX(90deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
-            background: #000;
+            background: #000F;
         }
 
       </style>
