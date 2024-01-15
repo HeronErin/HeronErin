@@ -120,70 +120,70 @@
                 <div class="rot">
                     <!-- cobble -->
                     <div class="cube" style="transform: translate3d(25px, 0px, 0px);">
-                        <div class="face1 face cobble"/>
-                        <div class="face2 face cobble"/>
-                        <div class="face3 face cobble"/>
-                        <div class="face4 face cobble"/>
-                        <div class="face5 face cobble"/>
-                        <div class="face6 face cobble"/>
+                        <img class="face1 face cobble"/>
+                        <img class="face2 face cobble"/>
+                        <img class="face3 face cobble"/>
+                        <img class="face4 face cobble"/>
+                        <img class="face5 face cobble"/>
+                        <img class="face6 face cobble"/>
                     </div>
                     <div class="cube" style="transform: translate3d(-25px, 0px, 0px);">
-                        <div class="face1 face cobble"/>
-                        <div class="face2 face cobble"/>
-                        <div class="face3 face cobble"/>
-                        <div class="face4 face cobble"/>
-                        <div class="face5 face cobble"/>
-                        <div class="face6 face cobble"/>
+                        <img class="face1 face cobble"/>
+                        <img class="face2 face cobble"/>
+                        <img class="face3 face cobble"/>
+                        <img class="face4 face cobble"/>
+                        <img class="face5 face cobble"/>
+                        <img class="face6 face cobble"/>
                     </div>
                     <div class="cube" style="transform: translate3d(25px, 0px, 50px);">
-                        <div class="face1 face cobble"/>
-                        <div class="face2 face cobble"/>
-                        <div class="face3 face cobble"/>
-                        <div class="face4 face cobble"/>
-                        <div class="face5 face cobble"/>
-                        <div class="face6 face cobble"/>
+                        <img class="face1 face cobble"/>
+                        <img class="face2 face cobble"/>
+                        <img class="face3 face cobble"/>
+                        <img class="face4 face cobble"/>
+                        <img class="face5 face cobble"/>
+                        <img class="face6 face cobble"/>
                     </div>
                     <div class="cube" style="transform: translate3d(-25px, 0px, 50px);">
-                        <div class="face1 face cobble"/>
-                        <div class="face2 face cobble"/>
-                        <div class="face3 face cobble"/>
-                        <div class="face4 face cobble"/>
-                        <div class="face5 face cobble"/>
-                        <div class="face6 face cobble"/>
+                        <img class="face1 face cobble"/>
+                        <img class="face2 face cobble"/>
+                        <img class="face3 face cobble"/>
+                        <img class="face4 face cobble"/>
+                        <img class="face5 face cobble"/>
+                        <img class="face6 face cobble"/>
                     </div>
 
 
                     <div class="cube" style="transform: translate3d(-25px, -50px, 0px);">
-                        <div class="face1 face dirt"/>
-                        <div class="face2 face dirt"/>
-                        <div class="face3 face dirt"/>
-                        <div class="face4 face dirt"/>
-                        <div class="face5 face grass"/>
-                        <div class="face6 face grass"/>
+                        <img class="face1 face dirt"/>
+                        <img class="face2 face dirt"/>
+                        <img class="face3 face dirt"/>
+                        <img class="face4 face dirt"/>
+                        <img class="face5 face grass"/>
+                        <img class="face6 face grass"/>
                     </div>
                     <div class="cube" style="transform: translate3d(25px, -50px, 0px);">
-                        <div class="face1 face dirt"/>
-                        <div class="face2 face dirt"/>
-                        <div class="face3 face dirt"/>
-                        <div class="face4 face dirt"/>
-                        <div class="face5 face grass"/>
-                        <div class="face6 face grass"/>
+                        <img class="face1 face dirt"/>
+                        <img class="face2 face dirt"/>
+                        <img class="face3 face dirt"/>
+                        <img class="face4 face dirt"/>
+                        <img class="face5 face grass"/>
+                        <img class="face6 face grass"/>
                     </div>
                     <div class="cube" style="transform: translate3d(-25px, -50px, 50px);">
-                        <div class="face1 face dirt"/>
-                        <div class="face2 face dirt"/>
-                        <div class="face3 face dirt"/>
-                        <div class="face4 face dirt"/>
-                        <div class="face5 face grass"/>
-                        <div class="face6 face grass"/>
+                        <img class="face1 face dirt"/>
+                        <img class="face2 face dirt"/>
+                        <img class="face3 face dirt"/>
+                        <img class="face4 face dirt"/>
+                        <img class="face5 face grass"/>
+                        <img class="face6 face grass"/>
                     </div>
                     <div class="cube" style="transform: translate3d(25px, -50px, 50px);">
-                        <div class="face1 face dirt"/>
-                        <div class="face2 face dirt"/>
-                        <div class="face3 face dirt"/>
-                        <div class="face4 face dirt"/>
-                        <div class="face5 face grass"/>
-                        <div class="face6 face grass"/>
+                        <img class="face1 face dirt"/>
+                        <img class="face2 face dirt"/>
+                        <img class="face3 face dirt"/>
+                        <img class="face4 face dirt"/>
+                        <img class="face5 face grass"/>
+                        <img class="face6 face grass"/>
                     </div>
                     
                 </div>
