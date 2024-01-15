@@ -52,7 +52,7 @@
         .cube{
             position: absolute;
             transform-style: preserve-3d;
-            transform: translate3d(25px, 25px, 0px) rotateX(45deg) rotateY(45deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+            transform: translate3d(50px, 75px, 0px) rotateX(45deg) rotateY(45deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
         }
         .face{
             position: absolute;
