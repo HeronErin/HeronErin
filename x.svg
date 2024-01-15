@@ -61,6 +61,7 @@
             width:50px;
             height:50px;
             backface-visibility: visible;
+            background-image: url("data:image/png;base64,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");
             
         }
         .face1{
@@ -97,12 +98,12 @@
             
             <div class="cube">
                 <div class="rot">
-                    <img class="face1 face" src="https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png"/>
-                    <img class="face2 face" src="https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png"/>
-                    <img class="face3 face" src="https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png"/>
-                    <img class="face4 face" src="https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png"/>
-                    <img class="face5 face" src="https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png"/>
-                    <img class="face6 face" src="https://raw.githubusercontent.com/HeronErin/Voxel-HTML-engine/main/imgs/leaf.png"/>
+                    <div class="face1 face"/>
+                    <div class="face2 face"/>
+                    <div class="face3 face"/>
+                    <div class="face4 face"/>
+                    <div class="face5 face"/>
+                    <div class="face6 face"/>
                 </div>
             </div>
         
