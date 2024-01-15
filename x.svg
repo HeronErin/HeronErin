@@ -58,6 +58,8 @@
             transform-origin: 0px 0px 0px;
             width:50px;
             height:50px;
+            
+            display:block;
             backface-visibility: visible;
             image-rendering: pixelated;
         }
