@@ -6,14 +6,14 @@
 
 ---------
 
-|    My favorite languages (in order)  | The languages I am fluent in |
-|--------------------------------------|------------------------------|
-| 1. Python                            | 1. Python                    |
-| 2. Dlang                             | 2. Dlang                     |
-| 3. C  (Not PlusPlus)                 | 3. C  (Not PlusPlus)         |
-| 4. Java (I am strange)               | 4. Js                        |
-| 5. Z80 Assembly                      | 5. Z80 Assembly              |
-| 6. Rust                              | 6. Bash                      |
+|    My favorite languages (in order)  | The languages I am fluent in |            Some Notable programming projects                    |
+|--------------------------------------|------------------------------|-----------------------------------------------------------------|
+| 1. Python                            | 1. Python                    |<a href="//github.com/HeronErin/TiConstructor">TiConstructor</a> |
+| 2. Dlang                             | 2. Dlang                     |<a href="//github.com/HeronErin/C-prime-sieve">C Prime Sieve</a> |
+| 3. C  (Not PlusPlus)                 | 3. C  (Not PlusPlus)         |<a href="//github.com/HeronErin/AmazonFireDebloat">AmazonFireDebloat</a> |
+| 4. Java (I am strange)               | 4. Js                        |<a href="//github.com/HeronErin/quick-pi-gen">Rust PI Gen</a>    |
+| 5. Z80 Assembly                      | 5. Z80 Assembly              |<a href="//github.com/HeronErin/webcamfaker">WebcamFaker</a>     |
+| 6. Rust                              | 6. Bash                      |And many more...                                                 |
 | 7. Html                              | 7. Html/CSS                  |
 |                                      | 8. Markdown                  |
 |                                      | 9. Json                      |
