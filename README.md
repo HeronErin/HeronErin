@@ -19,5 +19,5 @@
 |                                      | 9. Json                      |
 
 <sup><i>
-I have also use, but am not prefecient in: C#, SQL, Powershell, Svg, Xml, C++, and TI-basic.
+I have also used, but am not proficient in C#, SQL, Powershell, Svg, Xml, C++, and TI-basic.
 </i></sup>
