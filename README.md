@@ -1,12 +1,3 @@
-<img
-  height="150"
-  align="right"
-  src="https://github-readme-stats.vercel.app/api?username=HeronErin&count_private=true&show_icons=true&custom_title=HeronErin'%20Github%20Status&hide=issues&theme=vision-friendly-dark"
-/>
-
-
----------
-
 |    My favorite languages (in order)  | The languages I am fluent in |            Some Notable programming projects                    |
 |--------------------------------------|------------------------------|-----------------------------------------------------------------|
 | 1. Python                            | 1. Python                    |<a href="//github.com/HeronErin/TiConstructor">TiConstructor</a> |
@@ -22,3 +13,8 @@
 <sup><i>
 I have also used, but am not proficient in C#, SQL, Powershell, Svg, Xml, C++, and TI-basic.
 </i></sup>
+
+<img
+  height="150"
+  src="https://github-readme-stats.vercel.app/api?username=HeronErin&count_private=true&show_icons=true&custom_title=HeronErin'%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+/>
