@@ -5,8 +5,8 @@
 | 3. C  (Not PlusPlus)                 | 3. C  (Not PlusPlus)         |<a href="//github.com/HeronErin/AmazonFireDebloat">AmazonFireDebloat</a> |
 | 4. Java (I am strange)               | 4. Js                        |<a href="//github.com/HeronErin/quick-pi-gen">Rust PI Gen</a>    |
 | 5. Z80 Assembly                      | 5. Z80 Assembly              |<a href="//github.com/HeronErin/webcamfaker">WebcamFaker</a>     |
-| 6. Rust                              | 6. Bash                      |And many more...                                                 |
-| 7. Html                              | 7. Html/CSS                  |
+| 6. Rust                              | 6. Bash                      |<a href="//github.com/HeronErin/Bootstrap-Icons-Auto-convert">Bootstrap-Icons-Auto-convert</a>     |
+| 7. Html                              | 7. Html/CSS                  |And many more...                                                 |
 |                                      | 8. Markdown                  |
 |                                      | 9. Json                      |
 
