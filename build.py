@@ -7,8 +7,6 @@ blocks = [
 ]
 
 
-
-
 html = open("raw.svg", "r").read()
 for src, to in blocks:
 	html=html.replace(src, to)
