@@ -16,5 +16,5 @@ I have also used, but am not proficient in C#, SQL, Powershell, Svg, Xml, C++, a
 
 <img
   height="150"
-  src="https://github-readme-stats.vercel.app/api?username=PsychedelicPalimpsest&count_private=true&show_icons=true&custom_title=PsychedelicPalimpsest'%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+  src="https://github-readme-stats.vercel.app/api?username=PsychedelicPalimpsest&count_private=true&show_icons=true&custom_title=PsychedelicPalimpsest's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
 />
